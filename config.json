@@ -1,0 +1,22 @@
+{
+    "bridges": [
+        {
+            "name": "emfont",
+            "discord": {
+                "chat_id": "1259885692646068254"
+            },
+            "telegram": {
+                "chat_id": "1001234567890"
+            },
+            "hide": false,
+            "disabled": false
+        }
+    ],
+    "ignore_bots": false,
+    "owner": {
+        "discord": "685630394431045863",
+        "telegram": "123456789"
+    },
+    "check_for_deleted_messages": true,
+    "deleted_message_check_interval": 5
+}
